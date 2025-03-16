@@ -172,12 +172,12 @@ CONFIG_PACKAGE_losetup=y
 CONFIG_PACKAGE_lsattr=y
 CONFIG_PACKAGE_lsblk=y
 # CONFIG_PACKAGE_luci-app-accesscontrol is not set
-CONFIG_PACKAGE_luci-app-adguardhome=y
+# CONFIG_PACKAGE_luci-app-adguardhome is not set
 CONFIG_PACKAGE_luci-app-amlogic=y
 # CONFIG_PACKAGE_luci-app-arpbind is not set
 # CONFIG_PACKAGE_luci-app-ddns is not set
-CONFIG_PACKAGE_luci-app-docker=y
-CONFIG_PACKAGE_luci-app-dockerman=y
+# CONFIG_PACKAGE_luci-app-docker is not set
+# CONFIG_PACKAGE_luci-app-dockerman is not set
 # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-ng is not set
 # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-webui is not set
 # CONFIG_PACKAGE_luci-app-turboacc is not set
@@ -188,11 +188,11 @@ CONFIG_PACKAGE_luci-app-dockerman=y
 # CONFIG_PACKAGE_luci-app-upnp is not set
 # CONFIG_PACKAGE_luci-app-vsftpd is not set
 CONFIG_PACKAGE_luci-i18n-amlogic-zh-cn=y
-CONFIG_PACKAGE_luci-i18n-docker-zh-cn=y
-CONFIG_PACKAGE_luci-i18n-dockerman-zh-cn=y
-CONFIG_PACKAGE_luci-lib-docker=y
+# CONFIG_PACKAGE_luci-i18n-docker-zh-cn=y
+# CONFIG_PACKAGE_luci-i18n-dockerman-zh-cn=y
+# CONFIG_PACKAGE_luci-lib-docker=y
 CONFIG_PACKAGE_luci-proto-ipv6=y
-CONFIG_PACKAGE_luci-theme-opentomcat=y
+# CONFIG_PACKAGE_luci-theme-opentomcat=y
 # CONFIG_PACKAGE_miniupnpd is not set
 CONFIG_PACKAGE_mount-utils=y
 CONFIG_PACKAGE_odhcp6c=y
